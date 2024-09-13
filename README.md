@@ -38,6 +38,8 @@ O site foi desenvolvido utilizando as seguintes tecnologias:
 
 O design foi pensado para ser limpo e acessível, utilizando cores suaves e uma tipografia clara para facilitar a navegação e leitura dos conteúdos. A experiência do usuário foi priorizada para garantir que as informações sejam facilmente encontradas e consumidas.
 
+![Logo do projeto](https://github.com/GbrlSouza/Psicologas/blob/main/assets/img/page.png)
+
 ---
 
 Desenvolvido por **Gabriel Souza**.
